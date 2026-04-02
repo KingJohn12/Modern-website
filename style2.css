@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+
+}
+
+.container{
+    height: 550px;
+    width: 950px;
+    box-shadow: 3px 3px 16px rgba(18, 108, 243, 0);
+    overflow: hidden;
+}
+
+.images img {
+    height: 100%;
+    width: 100%;
+}
+
+.Introduction {
+    background-color: brown;
+    
+}
